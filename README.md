@@ -16,3 +16,10 @@ How to use/features-
 -The maze map is the grid seen below the tool bar. This is where squares can be placed when selected on the tool bar. The size of the grid can also be reset using the grid width and height selectors at the bottom of the window.
  
 -The start/stop button can be found in the bottom right. When activated, the solution to the maze will be shown in yellow on the grid along with a text showing how many steps it took. When stopped, the solution will be erased and the maze map will be reverted back to how it appeared before the maze solver was run.
+  
+  
+ Demo:
+ 
+![maze4](https://user-images.githubusercontent.com/99133333/185804658-02610df3-be69-4be5-a7c4-eda7b8a90253.png)
+ 
+![maze5](https://user-images.githubusercontent.com/99133333/185804673-f4077d0c-0c01-40d8-a066-92e377ca2fcc.png)
